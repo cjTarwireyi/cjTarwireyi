@@ -15,6 +15,10 @@ I specialize in building robust backend services and modern frontend web applica
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI-Powered Dev](https://img.shields.io/badge/Workflow-AI--Assisted%20Engineering-007ACC?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
 
 ### 🔭 What I'm Up To
