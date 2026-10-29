@@ -27,7 +27,7 @@ I specialize in building robust backend services and modern frontend web applica
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjTarwireyi&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=cjTarwireyi&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjTarwireyi&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
